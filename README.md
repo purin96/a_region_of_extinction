@@ -1,5 +1,4 @@
 # a_region_of_extinction
-데이터 시각화 연습
 
 ## 지방소멸위험지역 정의
   
