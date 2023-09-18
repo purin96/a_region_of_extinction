@@ -1,7 +1,6 @@
 # a_region_of_extinction
 
-## 지방소멸위험지역 정의
-<img width="1003" alt="스크린샷 2023-09-18 오후 4 30 26" src="https://github.com/purin96/a_region_of_extinction/assets/121744538/e19abc0e-ed8f-4f6b-898b-af279f11ed29">
+## 지방소멸위험지역 정의 <img width="1003" alt="스크린샷 2023-09-18 오후 4 30 26" src="https://github.com/purin96/a_region_of_extinction/assets/121744538/e19abc0e-ed8f-4f6b-898b-af279f11ed29">
 
 ![image](https://github.com/purin96/a_region_of_extinction/assets/121744538/878799d6-de61-4255-b8bf-8a0df9f90d75)
 
