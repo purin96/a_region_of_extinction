@@ -15,6 +15,9 @@
 ### 위도, 경도 추가
 <img width="943" alt="스크린샷 2023-09-18 오후 4 31 28" src="https://github.com/purin96/a_region_of_extinction/assets/121744538/6e60163d-0280-41fd-9a02-52b02fa52059">
 
+### json파일과 병합
+<img width="1315" alt="스크린샷 2023-09-18 오후 5 17 22" src="https://github.com/purin96/a_region_of_extinction/assets/121744538/661b1137-9877-41f3-aae0-41f59e9d6ed5">
+
 ### 지도에 그리기
 ![image](https://github.com/purin96/a_region_of_extinction/assets/121744538/c5f8f068-cc40-48d3-928a-665767926c55)
 
